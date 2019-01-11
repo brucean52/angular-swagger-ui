@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular-swagger-ui';
+  title = 'Angular6 Swagger UI Example';
 }
