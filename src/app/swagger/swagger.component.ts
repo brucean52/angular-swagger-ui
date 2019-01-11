@@ -5,7 +5,7 @@ import SwaggerUI from 'swagger-ui';
 @Component({
   selector: 'app-swagger',
   templateUrl: './swagger.component.html',
-  styles: []
+  styleUrls: []
 })
 export class SwaggerComponent implements AfterViewInit {
 
